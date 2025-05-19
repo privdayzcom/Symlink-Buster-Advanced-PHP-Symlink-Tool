@@ -3,6 +3,13 @@
 **A powerful symlink-based file access toolkit designed for penetration testing, file inspection, and LFI bypass techniques.**
 
 > ⚠️ For educational and legal use only – do not use this tool on systems you do not own or manage.
+![version](https://img.shields.io/badge/version-v4.3.2-blue)
+![status](https://img.shields.io/badge/status-actively--maintained-brightgreen)
+![target](https://img.shields.io/badge/target-server--pentest-red)
+![php](https://img.shields.io/badge/built_with-PHP-informational)
+![license](https://img.shields.io/badge/license-educational--only-orange)
+![method](https://img.shields.io/badge/symlink-multi--method-yellow)
+![platform](https://img.shields.io/badge/platform-linux--apache--litespeed-lightgrey)
 
 ![Symlink buster php](Symbuster.jpg)
 ---
