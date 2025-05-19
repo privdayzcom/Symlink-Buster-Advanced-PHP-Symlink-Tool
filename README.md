@@ -4,6 +4,7 @@
 
 > ⚠️ For educational and legal use only – do not use this tool on systems you do not own or manage.
 
+![Symlink buster php](Symbuster.jpg)
 ---
 
 ## 🚀 Features
