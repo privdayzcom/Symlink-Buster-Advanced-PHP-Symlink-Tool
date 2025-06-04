@@ -1,6 +1,6 @@
 <?php
 /**
- * 🔓 SYMLINK BUSTER v4.3.2
+ * 🔓 SYMLINK BUSTER v4.3.3
  * ----------------------------------------
  * Multi-method symlink-based file access
  * Designed for testing servers with symlink or read restrictions (LiteSpeed, Apache, etc.)
